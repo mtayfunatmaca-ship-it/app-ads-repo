@@ -1,2 +1,1 @@
-# app-ads-repo
-Reklam yeni
+ca-app-pub-6415661016738887~6646568586
